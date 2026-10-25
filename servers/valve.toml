@@ -81,3 +81,9 @@ address  = "82.67.199.14:27015"
 protocol = 49
 contact  = "telegram:@arsongear"
 host     = "WINCOR Headquarters"
+
+[[server]]
+address  = "82.67.199.14:27016"
+protocol = 48
+contact  = "telegram:@arsongear"
+host     = "WINCOR Headquarters"
